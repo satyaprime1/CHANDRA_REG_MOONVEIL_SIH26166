@@ -1,0 +1,11 @@
+opencv-python-headless
+numpy
+matplotlib
+scipy
+torch
+torchvision
+kornia
+scikit-image
+streamlit
+pandas
+pytest
