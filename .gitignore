@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# IDE
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated outputs
+outputs/*
+
+# Raw/large datasets
+data/raw/*
+data/processed/*
+CHANDRA-REG/data/raw/*
+*.img
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db
